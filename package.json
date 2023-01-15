@@ -12,6 +12,7 @@
     "@testing-library/user-event": "^13.5.0",
     "bcrypt": "^5.1.0",
     "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
     "firebase": "^9.15.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
